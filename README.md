@@ -10,6 +10,8 @@ This project demonstrates the end-to-end design and implementation of a relation
 olympics-data-warehouse/
 ├── erd/
 │   └── star_schema.png           # ERD / DrawSQL diagram of the Star Schema
+├── dashboard/
+│   └── dashboard.pbix            # Power BI Dashboard
 ├── etl/
 │   ├── Engineering.ipynb         # Python ETL notebook (cleaning, mapping & dimensioning)
 │   └── Power_BI_connect.ipynb    # Python data connector for Power BI Desktop
