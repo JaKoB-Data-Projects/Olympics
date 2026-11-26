@@ -9,8 +9,6 @@ env/
 
 *.csv
 
-# Power BI Dateien (werden nicht hochgeladen)
-*.pbix
 
 # Umgebungsvariablen & Passwörter
 .env
